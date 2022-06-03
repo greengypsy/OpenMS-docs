@@ -53,18 +53,8 @@ templates_path = ['_templates']
 source_suffix = ['.rst', '.md']
 
 myst_enable_extensions = [
-    "amsmath",
     "colon_fence",
-    "deflist",
-    "dollarmath",
-    "fieldlist",
     "html_admonition",
-    "html_image",
-    "replacements",
-    "smartquotes",
-    "strikethrough",
-    "substitution",
-    "tasklist",
 ]
 
 hoverxref_roles = [
